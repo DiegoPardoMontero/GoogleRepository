@@ -14,3 +14,4 @@ number = input("\nGive me a number: ")
 number = int(number)
 
 print("The fibonnaci for the number " + str(number) + " = " + str(fibonacci(number)))
+print("Thanks for using my program!")
