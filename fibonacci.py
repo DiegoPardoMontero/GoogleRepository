@@ -7,7 +7,10 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 
 
-number = input("Give me a number: ")
+print("Hi, this is a simple program to help you calculate the n number of fibonacci series")
+input("Press any key when you are ready")
+
+number = input("\nGive me a number: ")
 number = int(number)
 
-print(fibonacci(number))
+print("The fibonnaci for the number " + str(number) + " = " + str(fibonacci(number)))
