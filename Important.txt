@@ -1,2 +1,9 @@
 Hi!
 This is an example of a really important file that was added to the repo!
+
+Consider this a essential function for the program:
+
+int suma(int a, int b){
+    int c = a + b;
+    return c;
+}
