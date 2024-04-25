@@ -8,7 +8,6 @@ def fibonacci(n):
 
 
 print("Hi, this is a simple program to help you calculate the n number of fibonacci series")
-input("Press any key when you are ready")
 
 number = input("\nGive me a number: ")
 number = int(number)
