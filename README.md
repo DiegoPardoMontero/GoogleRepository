@@ -10,3 +10,5 @@ Important knowledge acquired:
 - Recording changes
 - Reviewing commit history
 - Branches
+
+This project was developed by: Diego Pardo Montero
